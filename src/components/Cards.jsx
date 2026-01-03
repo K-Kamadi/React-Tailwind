@@ -6,9 +6,10 @@ import triple from "../assets/triple.png"
 
 const Cards = () => {
   return (
+    
     <div className='bg-white w-full py-[10rem] px-8 '>
         <div className='max-w-[1240] mx-auto grid md:grid-cols-3 gap-8'>
-        <div className='shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300' >
+        <div className=' shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300' >
             <img className='w-20 mx-auto mt-[-3rem] bg-white' src={single} alt='/'></img>
             <h2  className='text-2xl font-bold text-center py-8'>Single User</h2>
             <p className='text-center font-bold text-4xl'>$149</p>

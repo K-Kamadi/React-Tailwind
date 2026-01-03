@@ -50,13 +50,14 @@ const Footer = () => {
                 </ul>
         </div>
     <div>
-        </div>
-            <h6 className='font-medium text-gray-400'>Legal</h6>
+         <h6 className='font-medium text-gray-400'>Legal</h6>
                 <ul>
                     <li className='py-2 text-sm'>Claim</li>
                     <li className='py-2 text-sm'>Policy</li>
                     <li className='py-2 text-sm'>Terms</li>
                 </ul>
+        </div>
+           
         </div>
     </div>
     
